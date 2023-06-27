@@ -28,6 +28,7 @@ Fonctions de la libc :
 - memcmp
 - strnstr
 - atoi
+  
 Autres fonctions : 
 - ft_substr
 - ft_strjoin
